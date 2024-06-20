@@ -33,3 +33,4 @@
 
 ## Vamos nos conectar! / Let's connect!
 - Se você compartilha interesses semelhantes ou quer trocar ideias sobre desenvolvimento web, tecnologia ou jogos, não hesite em me contatar. Vamos construir algo incrível juntos! 😊
+- If you share similar interests or want to exchange ideas about web development, technology, or games, don't hesitate to contact me. Let's build something amazing together! 😊
