@@ -28,6 +28,7 @@
   - 📚 To share my knowledge and experiences with other developers.
 
 ## Onde me encontrar / Where to Find me
+- 🌐 [Portifólio / portfolio](https://maxmalato.github.io/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/maxmalato/)
 - 💼 [Currículo / Resume (PDF)](https://drive.google.com/file/d/1R6hksu5cEiKIhbZVDjwM9nR57ugbQFGO/view?usp=sharing)
 
