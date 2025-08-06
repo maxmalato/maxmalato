@@ -1,29 +1,29 @@
 ## Sobre mim / About me
 - **Português:**
-  Me chamo Maxjannyfer👋, mas podem me chamar de MAX e sou apaixonado por Jesus, Tecnologia e Jogos. Atualmente, estou focado em desenvolvimento Front-end, especialmente em JavaScript e TypeScript.
+  Me chamo Maxjannyfer👋, mas podem me chamar de MAX e sou apaixonado por Jesus, Tecnologia e Jogos. Atualmente, estou focado em desenvolvimento Fullstack, especialmente em React e C#.
 
 - **English:**
-  My name is Maxjannyfer👋, but you can call me MAX, and I'm passionate about Jesus, Technology, and Games. Currently, I'm focused on Front-end development, especially in JavaScript and TypeScript.
+  My name is Maxjannyfer👋, but you can call me MAX, and I'm passionate about Jesus, Technology, and Games. Currently, I'm focused on Fullstack development, especially in React and C#.
 
 ## O que eu faço / What I do
 - **Português:**
-  - 💻 Atualmente estou aprendendo e desenvolvendo projetos com TypeScript, Next.js, Node.js entre outros.
+  - 💻 Atualmente estou aprendendo e desenvolvendo projetos com React, C# e entre outros.
   - 🌱 Estou em constante aprendizado para aprimorar minhas habilidades em desenvolvimento web.
   - 🎮 Nos meus momentos livres, gosto de jogar, assistir filmes e séries e estar com minha família.
 
 - **English:**
-  - 💻 I'm currently learning and working on projects using TypeScript, Next.js, Node.js among others.
+  - 💻 I'm currently learning and working on projects using React, C# and among others.
   - 🌱 I'm constantly learning to improve my web development skills.
   - 🎮 In my free time, I like to play games, watch movies and TV shows, and spend time with my family.
 
 ## Objetivos / Goals
 - **Português:**
-  - 🚀 Me tornar um desenvolvedor Full Stack sólido em TypeScript/Java.
+  - 🚀 Me tornar um desenvolvedor Fullstack sólido em React/C#.
   - 🔧 Contribuir para projetos open source e aprender com a comunidade.
   - 📚 Compartilhar meu conhecimento e experiências com outros desenvolvedores.
 
 - **English:**
-  - 🚀 To become a solid Full Stack developer in TypeScript/Java.
+  - 🚀 To become a solid Fullstack developer in React/C#.
   - 🔧 To contribute to open-source projects and learn from the community.
   - 📚 To share my knowledge and experiences with other developers.
 
