@@ -1,37 +1,37 @@
 ## Sobre mim / About me
 - **Português:**
-  Me chamo Maxjannyfer👋, mas podem me chamar de MAX e sou apaixonado por Jesus, Tecnologia e Jogos. Atualmente, estou focado em desenvolvimento Fullstack, especialmente em React e C#.
+  Me chamo Maxjannyfer 👋, mas podem me chamar de MAX. Tenho mais de 8 anos de bagagem em TI e hoje atuo profissionalmente como Desenvolvedor FullStack, focado no ecossistema .NET e React. Sou cristão, baixista, casado e pai, além de um grande entusiasta de tecnologia e jogos.
 
 - **English:**
-  My name is Maxjannyfer👋, but you can call me MAX, and I'm passionate about Jesus, Technology, and Games. Currently, I'm focused on Fullstack development, especially in React and C#.
+  My name is Maxjannyfer 👋, but you can call me MAX. I have over 8 years of experience in IT and currently work professionally as a FullStack Developer, focused on the .NET and React ecosystem. I am a Christian, bass player, married and a father, as well as a big enthusiast of technology and games.
 
 ## O que eu faço / What I do
 - **Português:**
-  - 💻 Atualmente estou aprendendo e desenvolvendo projetos com React, C# e entre outros.
-  - 🌱 Estou em constante aprendizado para aprimorar minhas habilidades em desenvolvimento web.
-  - 🎮 Nos meus momentos livres, gosto de jogar, assistir filmes e séries e estar com minha família.
+  - 💻 Construindo APIs robustas com C#, .NET e arquitetura DDD, e interfaces dinâmicas com React e TypeScript.
+  - 🏢 Atualmente, divido minha jornada garantindo suporte sistêmico crítico e desenvolvendo soluções de software na VIP Leilões.
+  - 🎮 Nos meus momentos livres, gosto de jogar, assistir filmes e séries, e curtir minha família.
 
 - **English:**
-  - 💻 I'm currently learning and working on projects using React, C# and among others.
-  - 🌱 I'm constantly learning to improve my web development skills.
-  - 🎮 In my free time, I like to play games, watch movies and TV shows, and spend time with my family.
+  - 💻 Building robust APIs using C#, .NET, and DDD architecture, alongside dynamic interfaces with React and TypeScript.
+  - 🏢 Currently, I split my time between ensuring critical system support and developing software solutions at VIP Leilões.
+  - 🎮 In my free time, I enjoy gaming, watching movies and TV shows, and spending time with my family.
 
 ## Objetivos / Goals
 - **Português:**
-  - 🚀 Me tornar um desenvolvedor Fullstack sólido em React/C#.
-  - 🔧 Contribuir para projetos open source e aprender com a comunidade.
-  - 📚 Compartilhar meu conhecimento e experiências com outros desenvolvedores.
+  - 🚀 Expandir minha carreira internacionalmente, aberto a oportunidades globais ou realocação.
+  - 🔧 Contribuir para projetos open-source e projetar arquiteturas escaláveis.
+  - 📚 Compartilhar meu conhecimento e experiências com a comunidade tech.
 
 - **English:**
-  - 🚀 To become a solid Fullstack developer in React/C#.
-  - 🔧 To contribute to open-source projects and learn from the community.
-  - 📚 To share my knowledge and experiences with other developers.
+  - 🚀 Expand my career internationally, open to global remote roles or relocation opportunities.
+  - 🔧 Contribute to open-source projects and design scalable architectures.
+  - 📚 Share my knowledge and experiences with the tech community.
 
 ## Onde me encontrar / Where to Find me
 - 🌐 [Portifólio / Portfolio](https://maxmalato.netlify.app/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/maxmalato/)
-- 💼 [Currículo / Resume (PDF)](https://docs.google.com/document/d/155MsEMMrvhNE63zUlLqhLpVY7I1kMiHY/edit?usp=sharing&ouid=105411822524337480368&rtpof=true&sd=true)
+- 💼 [Currículo / Resume (PDF)](https://docs.google.com/document/d/124bmvXM0iYr5aXNgoEBh_kjY4KoGXw09lERZMtodob0/edit?usp=sharing)
 
 ## Vamos nos conectar! / Let's connect!
-- Se você compartilha interesses semelhantes ou quer trocar ideias sobre desenvolvimento web, tecnologia ou jogos, não hesite em me contatar. Vamos construir algo incrível juntos! 😊
-- If you share similar interests or want to exchange ideas about web development, technology, or games, don't hesitate to contact me. Let's build something amazing together! 😊
+- Português: Se você compartilha interesses semelhantes ou quer trocar ideias sobre engenharia de software, tecnologia ou jogos, não hesite em me contatar. Vamos construir algo incrível juntos! 😊
+- If you share similar interests or want to exchange ideas about software engineering, technology, or games, don't hesitate to reach out. Let's build something amazing together! 😊
